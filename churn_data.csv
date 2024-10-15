@@ -1,0 +1,101 @@
+Customer ID,Gender,Customer Age,Marital Status,Occupation,Location,Customer Credit Score,Customer Total Transactions,Customer Total Cash Balance,Customer Total Cards,Customer Products,Average Account Balance,# of Loans,# of Mortgages,Credit Card Frequency,# of Customer Support Requests,Frequency of Logging In (per week),Debt to Income Ratio,Income,Debt,Customer Tenure,Customer Exited
+CUST_1,Male,30,Married,Physical Therapist,Columbus,760,34,72230.44,3,5,6386.85,3,2,2,2,7,0.41,62015.37,25426.3,1,0
+CUST_2,Female,74,Single,Judge,Phoenix,377,23,7439.49,3,1,22659.21,4,1,3,4,8,0.7,141864.6,99305.22,7,1
+CUST_3,Male,43,Single,Software Developer,Washington,501,77,80199.16,1,9,35613.6,2,0,1,2,8,0.7,94821.04,66374.73,26,0
+CUST_4,Female,22,Widowed,Plumber,San Francisco,643,84,59316.05,4,2,33414.79,3,1,16,5,6,0.19,47568.59,9038.03,12,0
+CUST_5,Male,20,Widowed,Teacher,Indianapolis,793,96,86361.15,4,3,17524.15,4,0,17,5,13,0.47,92475.88,43463.66,5,0
+CUST_6,Male,24,Single,Dentist,Fort Worth,770,11,3904.42,1,7,30075.84,0,2,2,4,2,0.38,35336.83,13428,4,0
+CUST_7,Female,69,Divorced,Dentist,Denver,470,42,13866.23,2,4,28258.7,2,0,2,5,3,0.95,81320.14,77254.13,28,1
+CUST_8,Male,49,Married,Producer,Austin,366,18,33422.29,3,8,39880.84,1,1,16,4,6,0.76,63757.31,48455.56,16,1
+CUST_9,Female,44,Divorced,Optometrist,San Antonio,719,8,6693.88,4,5,48570.7,2,2,15,7,0,0.91,94593.04,86079.67,8,0
+CUST_10,Female,63,Widowed,Producer,New York,755,63,15302.87,3,4,24318.83,3,0,15,9,7,0.5,128820.78,64410.39,16,0
+CUST_11,Female,54,Married,Digital Marketer,Los Angeles,512,79,98289.8,4,6,46921.25,2,2,8,3,5,0.33,139924.75,46175.17,13,1
+CUST_12,Male,22,Married,Producer,Dallas,385,26,9340.38,1,5,22747.3,4,1,18,0,8,0.76,50762.89,38579.8,13,1
+CUST_13,Male,41,Single,IT Support Specialist,Austin,761,1,27603.42,4,6,6941.06,3,0,13,1,4,0.17,132618.65,22545.17,7,0
+CUST_14,Male,63,Married,Musician,Washington,708,96,93153.68,3,3,18350.04,0,1,4,0,9,0.87,66176.66,57573.69,1,0
+CUST_15,Female,27,Divorced,Accountant,San Antonio,627,79,1290.62,3,6,10700.15,3,0,18,4,4,0.67,54984.87,36839.86,17,0
+CUST_16,Male,34,Divorced,Software Engineer,Philadelphia,698,43,58613.36,1,8,41531.92,4,0,18,6,2,0.29,67889.86,19688.06,17,0
+CUST_17,Female,43,Divorced,Security Guard,Washington,385,59,72113.09,4,3,32415.98,0,2,17,8,3,0.57,77310.19,44066.81,11,1
+CUST_18,Male,44,Divorced,Film Director,Austin,479,70,79697.8,3,2,38811.29,1,2,19,2,11,0.37,72295.23,26749.24,11,1
+CUST_19,Male,75,Single,Logistics Coordinator,Washington,692,19,11091.81,4,6,10623.77,2,1,13,8,6,0.99,132036.55,130716.18,7,1
+CUST_20,Male,53,Divorced,Research Assistant,San Diego,769,72,51712.78,1,2,34358.18,1,0,12,9,2,0.56,39778.61,22276.02,8,1
+CUST_21,Male,43,Divorced,Estate Planner,Phoenix,587,51,11504.66,2,7,9927.28,4,1,16,2,1,0.28,42082.39,11783.07,19,0
+CUST_22,Male,71,Married,Financial Analyst,Houston,456,68,48895.21,4,1,28277.46,4,2,9,1,12,0.19,41627.94,7909.31,1,0
+CUST_23,Female,54,Widowed,UX Designer,Washington,732,50,29570.28,2,2,11557.75,0,2,6,2,2,0.76,89382.6,67930.78,8,1
+CUST_24,Female,74,Widowed,Bartender,Washington,656,61,18753.62,1,1,27133.75,0,0,2,3,8,0.67,67659.09,45331.59,18,1
+CUST_25,Male,57,Widowed,Customer Service Representative,Austin,402,35,76342.54,2,8,45790.74,1,0,11,8,12,0.37,70609.29,26125.44,2,0
+CUST_26,Female,39,Widowed,Waiter/Waitress,Dallas,511,46,11781.35,1,3,48161.68,3,0,17,5,3,0.71,139176.04,98814.99,26,1
+CUST_27,Female,25,Divorced,Police Officer,Seattle,560,24,53184.24,3,1,15983.8,0,1,7,7,8,0.15,132463.67,19869.55,22,1
+CUST_28,Female,73,Divorced,Pilot,Phoenix,739,74,25960.83,4,5,13585.96,4,2,2,7,4,0.17,70190.55,11932.39,21,0
+CUST_29,Male,73,Married,Social Worker,Fort Worth,415,12,49919.5,2,1,32538.29,3,2,5,5,12,0.44,125909.66,55400.25,7,1
+CUST_30,Male,71,Widowed,Architect,San Jose,386,34,38664.75,2,7,19577.9,0,2,19,2,12,0.14,126235.8,17673.01,6,1
+CUST_31,Female,44,Single,Chiropractor,San Diego,532,12,55359.01,3,2,35980.16,1,1,13,4,3,0.13,107185.37,13934.1,10,1
+CUST_32,Female,44,Married,Surgeon,San Antonio,495,17,98660.68,1,4,30307.47,2,2,13,1,3,0.86,68799.92,59167.93,5,0
+CUST_33,Female,70,Divorced,Teacher,Columbus,770,11,71615.37,1,5,34608.49,2,1,9,1,11,0.8,64549.89,51639.91,3,0
+CUST_34,Female,76,Married,Baker,San Diego,676,73,1723.47,1,7,26938.45,2,0,11,2,1,0.21,135702.99,28497.63,6,0
+CUST_35,Female,66,Single,SEO Specialist,Columbus,811,94,76630.3,1,8,12695.33,0,2,4,1,1,0.49,121361.42,59467.1,26,0
+CUST_36,Female,19,Married,Software Developer,Indianapolis,674,28,80031,2,4,28612.19,3,0,3,6,6,0.97,31421.14,30478.51,21,0
+CUST_37,Male,23,Single,Interior Designer,Chicago,549,54,55824.89,1,5,7854.07,0,0,3,8,5,0.67,51167.26,34282.06,27,1
+CUST_38,Male,53,Widowed,Software Engineer,Los Angeles,395,7,45499.41,3,6,25399.17,2,1,8,2,2,0.92,130968.47,120490.99,14,0
+CUST_39,Female,62,Married,Engineer,Houston,458,94,44160.49,3,4,9865.19,3,1,6,2,9,0.59,133468.24,78746.26,2,1
+CUST_40,Male,45,Single,Influencer,San Antonio,629,87,16908.18,3,1,47121.48,4,1,5,3,7,0.94,92906.34,87331.96,2,0
+CUST_41,Male,20,Married,Pharmacist,San Antonio,518,55,4749.44,2,4,12613.8,2,0,15,2,1,0.77,99482.39,76601.44,6,1
+CUST_42,Male,59,Divorced,Professor,Charlotte,490,84,24867.83,1,6,24340.49,1,1,19,9,0,0.77,144889.43,111564.86,14,1
+CUST_43,Male,56,Single,Animator,San Antonio,541,18,38472.54,3,5,7853.9,4,1,10,8,11,0.57,52465.02,29905.06,18,0
+CUST_44,Male,24,Divorced,Bartender,Denver,360,50,64528.28,3,5,34973.83,4,1,8,6,9,0.93,146855.32,136575.45,29,0
+CUST_45,Male,26,Widowed,Customer Service Representative,New York,469,73,99135.39,2,8,48722.94,0,0,7,6,5,0.83,110929.77,92071.71,11,1
+CUST_46,Male,56,Married,Dentist,New York,508,77,46661.88,3,9,7059.38,2,2,4,3,8,0.11,130672.86,14374.01,8,1
+CUST_47,Male,63,Widowed,Security Guard,Seattle,677,36,10083.93,1,7,13474.27,4,2,19,1,1,0.39,128488.48,50110.51,16,1
+CUST_48,Female,25,Single,Chemist,Washington,720,23,37825.98,3,1,21709.62,0,1,6,9,6,0.74,49989.36,36992.13,25,1
+CUST_49,Female,36,Single,Doctor,Denver,512,80,43030.58,3,6,45183.92,2,0,13,4,0,0.98,38908.97,38130.79,8,1
+CUST_50,Male,18,Widowed,Legal Assistant,New York,489,95,86335.71,2,2,37596.52,2,1,19,5,3,0.84,122074.84,102542.87,10,1
+CUST_51,Male,78,Widowed,Fashion Designer,Austin,838,79,52575.85,1,6,17791.75,2,1,19,8,8,0.88,58466.18,51450.24,7,1
+CUST_52,Female,47,Widowed,Environmental Consultant,Austin,341,56,28562.6,2,4,49907.45,0,2,10,7,5,0.46,33983.98,15632.63,25,0
+CUST_53,Male,57,Divorced,UX Designer,Los Angeles,303,30,31379.86,3,6,40860.44,1,0,15,8,3,0.9,79503.37,71553.03,12,0
+CUST_54,Male,70,Widowed,Teacher,Seattle,477,26,71380.41,1,5,40483.32,0,2,7,8,10,0.32,75419.28,24134.17,4,1
+CUST_55,Male,77,Married,Counselor,Fort Worth,332,1,71172.02,1,8,29379.89,3,2,17,9,0,0.4,55211.47,22084.59,16,0
+CUST_56,Male,28,Widowed,Financial Analyst,Washington,523,83,53137.8,1,1,7198.12,2,0,17,9,11,0.64,118043.8,75548.03,3,1
+CUST_57,Male,69,Single,Real Estate Agent,Seattle,744,2,96751.24,4,3,18290.15,2,2,19,5,2,0.11,65743.06,7231.74,9,1
+CUST_58,Male,76,Single,Bartender,Columbus,455,7,77703.15,4,6,21039.31,3,2,18,8,6,0.76,111121.88,84452.63,27,0
+CUST_59,Male,77,Married,Waiter/Waitress,Columbus,319,49,1878.6,3,5,34308.09,4,0,4,3,2,0.36,74999.87,26999.95,18,0
+CUST_60,Female,25,Married,Graphic Designer,Philadelphia,672,82,81938.52,1,9,20186.64,1,2,19,9,8,0.76,69035.29,52466.82,15,0
+CUST_61,Female,76,Married,Pilot,Washington,626,98,50919.6,1,1,40712.21,1,1,16,0,3,0.32,78946.29,25262.81,25,0
+CUST_62,Male,28,Married,Product Manager,Fort Worth,319,21,36127.42,2,8,20072.65,2,0,1,9,5,0.32,110170.48,35254.55,29,0
+CUST_63,Male,38,Married,Research Assistant,San Antonio,753,32,9138.56,4,8,46108.59,0,2,6,3,7,0.97,128300.51,124451.49,27,0
+CUST_64,Female,60,Single,Investment Banker,Denver,345,10,78808.11,1,1,32519.34,2,0,10,7,5,0.3,37398.08,11219.42,18,1
+CUST_65,Female,34,Divorced,Insurance Agent,Houston,329,85,83596.24,2,4,20601.63,1,1,7,1,6,0.7,84862.42,59403.69,1,1
+CUST_66,Female,38,Married,Personal Trainer,Philadelphia,505,1,57762.7,4,4,47536.86,4,1,17,9,6,0.66,83618.49,55188.2,3,0
+CUST_67,Male,64,Divorced,HR Manager,San Antonio,512,43,89362.43,4,9,47648.56,0,2,14,9,7,0.3,84667.57,25400.27,5,1
+CUST_68,Female,36,Single,Digital Marketer,Washington,523,87,95691.79,1,7,31852.6,3,2,16,5,1,0.92,63746.9,58647.15,6,0
+CUST_69,Male,58,Married,Investment Banker,Denver,713,10,29562.37,1,2,48774.76,2,1,6,2,1,0.79,135725.09,107222.82,1,1
+CUST_70,Male,57,Single,Chiropractor,San Francisco,507,44,51127.16,4,7,15673,2,1,13,3,4,0.26,72758.79,18917.29,10,0
+CUST_71,Female,50,Married,Biologist,Houston,709,46,66487.5,3,3,7089.82,4,0,15,8,11,0.93,108115.35,100547.28,26,1
+CUST_72,Female,27,Single,Engineer,Phoenix,502,76,86587.44,4,6,16566.05,1,1,19,1,4,0.52,91535.3,47598.36,18,0
+CUST_73,Male,46,Widowed,Marketing Manager,Houston,808,40,18496.22,3,5,45289.44,3,0,10,2,7,0.78,122319.08,95408.88,14,0
+CUST_74,Female,70,Married,Scientist,Jacksonville,819,42,84341.84,2,4,47930.94,4,0,6,6,13,0.57,70823.33,40369.3,26,1
+CUST_75,Female,30,Married,Economist,Charlotte,672,70,77604.36,3,5,41010.96,0,0,10,2,5,0.85,55861.85,47482.57,29,0
+CUST_76,Female,21,Married,Translator,Dallas,795,75,1930.53,4,8,45290.4,0,1,19,0,8,0.93,35085.22,32629.25,27,0
+CUST_77,Male,26,Widowed,Engineer,Austin,776,65,51291.84,3,1,30970.48,1,1,6,7,7,0.92,74712.31,68735.33,3,0
+CUST_78,Female,31,Divorced,Biologist,Charlotte,586,74,11756.74,1,1,22284.41,1,0,16,5,1,0.84,30839.61,25905.27,13,0
+CUST_79,Male,21,Married,Interior Designer,Houston,366,88,11622.56,3,5,13964.72,4,2,7,8,9,0.55,69618.08,38289.94,21,0
+CUST_80,Female,53,Married,Therapist,Los Angeles,349,43,73463.74,1,1,48630.58,2,0,19,9,0,0.22,113528.7,24976.31,6,1
+CUST_81,Female,39,Single,Bartender,Chicago,494,79,87851.16,1,5,26262.06,2,1,8,1,12,0.16,98202.93,15712.47,16,0
+CUST_82,Female,65,Divorced,Professor,San Jose,569,41,49620.66,3,4,34196.63,0,0,15,6,1,0.54,103587.07,55937.02,20,1
+CUST_83,Male,69,Divorced,Animator,Washington,681,81,5923.34,2,9,26961.59,1,1,8,5,1,0.53,30058.76,15931.14,15,0
+CUST_84,Female,51,Married,Consultant,Jacksonville,768,89,91379.06,2,6,48148.9,0,0,12,5,8,0.83,127298.94,105658.12,11,0
+CUST_85,Female,50,Single,IT Support Specialist,New York,396,30,98769.89,4,3,31171.54,1,1,2,2,9,0.24,49434.27,11864.22,21,1
+CUST_86,Female,45,Widowed,Researcher,Jacksonville,341,15,63488.66,1,5,17331.92,1,1,9,8,0,0.43,112575.2,48407.34,19,0
+CUST_87,Male,72,Married,Speechwriter,Washington,459,59,67433.22,1,8,7425.45,2,1,12,7,8,0.21,58376.98,12259.17,8,1
+CUST_88,Male,41,Single,Surgeon,Austin,447,50,36617.02,4,6,12163.25,4,1,6,2,2,0.11,129037.3,14194.1,5,1
+CUST_89,Female,64,Single,Musician,Jacksonville,453,94,78006.88,4,4,46556.79,2,0,8,7,1,0.87,72484.42,63061.45,13,0
+CUST_90,Male,27,Single,Lawyer,Washington,532,26,78198.21,4,3,39594.12,1,1,18,6,11,0.5,54774.12,27387.06,18,0
+CUST_91,Female,33,Married,Chiropractor,Chicago,659,36,13534.14,3,5,43346.17,4,0,18,8,13,0.43,140319.09,60337.21,21,0
+CUST_92,Female,40,Widowed,SEO Specialist,Dallas,399,89,46608.64,1,4,16675.46,3,1,1,5,13,0.94,32389.76,30446.37,29,0
+CUST_93,Female,62,Married,Scientist,Houston,513,59,89207.12,3,7,21783.14,1,0,3,4,1,0.43,146383.53,62944.92,1,0
+CUST_94,Female,61,Married,Data Scientist,Fort Worth,399,3,5255.2,2,7,44401.52,3,1,7,0,12,0.55,140663.19,77364.75,20,1
+CUST_95,Female,56,Widowed,Electrician,Jacksonville,440,7,17143.22,3,3,14899.49,1,2,11,2,8,0.78,97993.31,76434.78,29,0
+CUST_96,Female,25,Widowed,Economist,Jacksonville,626,45,77044.1,1,1,46118.46,1,1,16,7,0,0.6,126731.11,76038.67,1,0
+CUST_97,Male,66,Single,Engineer,San Antonio,483,21,73524.75,4,4,32310.94,4,1,16,5,3,0.21,59553.05,12506.14,7,1
+CUST_98,Female,22,Divorced,Tax Consultant,Philadelphia,441,22,82669.06,1,9,41197.72,3,2,2,7,2,0.53,129517.16,68644.09,11,1
+CUST_99,Female,40,Single,Bartender,San Francisco,481,7,3170.97,4,3,11302.32,4,1,14,4,2,0.58,105399.12,61131.49,12,1
+CUST_100,Male,64,Widowed,Waiter/Waitress,Phoenix,581,34,10028.84,2,5,20476.51,1,0,7,0,4,0.97,137007.54,132897.31,12,0

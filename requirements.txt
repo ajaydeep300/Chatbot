@@ -1,0 +1,5 @@
+# requirements.txt
+pandas
+mysql-connector-python
+python-dotenv  # For loading .env file
+groq

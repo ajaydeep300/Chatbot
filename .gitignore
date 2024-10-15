@@ -1,0 +1,14 @@
+# .gitignore
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+.vscode/
+# Ignore virtual environment folder
+venv/
+
